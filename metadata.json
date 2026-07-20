@@ -1,0 +1,8 @@
+{
+  "name": "Gym Pro 5.3",
+  "description": "A premium fitness timer with ultra-modern UI, professional workout tracking, and multilingual support for a luxury gym experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
